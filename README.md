@@ -22,8 +22,8 @@ You can use this library to consume data from TV UDF providers.
 ## Examples
 
 The [TradingView.Examples](https://github.com/bmresearch/TradingView/tree/master/BlockMountain.TradingView.Examples) project features some examples on how to use the [ITradingViewProvider](https://github.com/bmresearch/TradingView/tree/master/BlockMountain.TradingView/ITradingViewProvider.cs), these examples include:
-- Getting all mango accounts owned by a specific address
-
+- Getting the config of a provider
+- Getting OHLCVs for a market from a provider
 
 ## Contribution
 
