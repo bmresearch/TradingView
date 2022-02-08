@@ -1,0 +1,359 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "description": "Bitcoin / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "BTCUSD",
+    "description": "Bitcoin / U.S. dollar",
+    "type": "crypto",
+    "exchange": "BITSTAMP",
+    "provider_id": "bitstamp"
+  },
+  {
+    "symbol": "BTCUSD",
+    "description": "BTC/USD",
+    "type": "crypto",
+    "exchange": "COINBASE",
+    "provider_id": "coinbase"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "description": "Ethereum / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "GALAUSDT",
+    "description": "GALA / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "BTCUSDTPERP",
+    "description": "Bitcoin / TetherUS PERPETUAL FUTURES",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "SHIBUSDT",
+    "description": "SHIB / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "ETHUSD",
+    "description": "ETH/USD",
+    "type": "crypto",
+    "exchange": "COINBASE",
+    "provider_id": "coinbase"
+  },
+  {
+    "symbol": "ADAUSDT",
+    "description": "Cardano / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "SOLUSDT",
+    "description": "SOL / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "LUNAUSDT",
+    "description": "Luna / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance",
+    "typespecs": [ "defi" ]
+  },
+  {
+    "symbol": "ETHUSD",
+    "description": "Ethereum / U.S. dollar",
+    "type": "crypto",
+    "exchange": "BITSTAMP",
+    "provider_id": "bitstamp"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "description": "Decentraland / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "FTMUSDT",
+    "description": "Fantom / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance",
+    "typespecs": [ "defi" ]
+  },
+  {
+    "symbol": "SANDUSDT",
+    "description": "SAND / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "BTCUSD",
+    "description": "BTCUSD Perpetual Contract",
+    "type": "crypto",
+    "exchange": "BYBIT",
+    "provider_id": "bybit"
+  },
+  {
+    "symbol": "XRPUSDT",
+    "description": "XRP / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "description": "AVAX / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance",
+    "typespecs": [ "defi" ]
+  },
+  {
+    "symbol": "MATICUSDT",
+    "description": "MATIC Network / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "description": "DOT / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "description": "AXS / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "description": "Binance Coin / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "BTCUSD",
+    "description": "Bitcoin all time history index",
+    "type": "crypto",
+    "exchange": "INDEX",
+    "provider_id": "tvc"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "description": "BTCUSDT Perpetual Contract",
+    "type": "crypto",
+    "exchange": "BYBIT",
+    "provider_id": "bybit"
+  },
+  {
+    "symbol": "BTCUSD",
+    "description": "Bitcoin / Dollar",
+    "type": "crypto",
+    "exchange": "BITFINEX",
+    "provider_id": "bitfinex"
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "description": "Dogecoin / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "description": "Cosmos / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "BTCPERP",
+    "description": "BTC Perpetual Futures Contract",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "SLPUSDT",
+    "description": "SLP / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "NEARUSDT",
+    "description": "NEAR / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "description": "Bitcoin / Tether",
+    "type": "crypto",
+    "exchange": "KUCOIN",
+    "provider_id": "kucoin"
+  },
+  {
+    "symbol": "ONEUSDT",
+    "description": "Harmony / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "ROSEUSDT",
+    "description": "ROSE / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance",
+    "typespecs": [ "defi" ]
+  },
+  {
+    "symbol": "LINKUSDT",
+    "description": "ChainLink / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance",
+    "typespecs": [ "defi" ]
+  },
+  {
+    "symbol": "BTCUSD",
+    "description": "Bitcoin / US Dollar (calculated by TradingView)",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "XRPUSD",
+    "description": "XRP / U.S. dollar",
+    "type": "crypto",
+    "exchange": "BITSTAMP",
+    "provider_id": "bitstamp"
+  },
+  {
+    "symbol": "ICPUSDT",
+    "description": "ICP / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "ALICEUSDT",
+    "description": "ALICE / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "GALAUSDTPERP",
+    "description": "GALA / TetherUS PERPETUAL FUTURES",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "ETHUSDTPERP",
+    "description": "Ethereum / TetherUS PERPETUAL FUTURES",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "BTCPERP",
+    "description": "Bitcoin Perpetual Futures",
+    "type": "crypto",
+    "exchange": "FTX",
+    "provider_id": "ftx"
+  },
+  {
+    "symbol": "ENJUSDT",
+    "description": "Enjin Coin / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "DYDXUSDT",
+    "description": "DYDX / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance",
+    "typespecs": [ "defi" ]
+  },
+  {
+    "symbol": "THETAUSDT",
+    "description": "Theta Token / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "description": "Litecoin / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "description": "Loopring / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance",
+    "typespecs": [ "defi" ]
+  },
+  {
+    "symbol": "SOLUSD",
+    "description": "Solana / USD",
+    "type": "crypto",
+    "exchange": "FTX",
+    "provider_id": "ftx"
+  },
+  {
+    "symbol": "VETUSDT",
+    "description": "VeChain / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  },
+  {
+    "symbol": "SHIBUSD",
+    "description": "Shiba Inu / USD",
+    "type": "crypto",
+    "exchange": "FTX",
+    "provider_id": "ftx"
+  },
+  {
+    "symbol": "EGLDUSDT",
+    "description": "EGLD / TetherUS",
+    "type": "crypto",
+    "exchange": "BINANCE",
+    "provider_id": "binance"
+  }
+]

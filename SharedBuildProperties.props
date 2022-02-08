@@ -1,0 +1,23 @@
+<Project DefaultTargets="Build"
+         xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <Product>TradingView</Product>
+        <Version>0.0.1</Version>
+        <Copyright>Copyright 2022 &#169; blockmountain</Copyright>
+        <Authors>blockmountain</Authors>
+        <PublisherName>blockmountain</PublisherName>
+        <RepositoryUrl>https://github.com/bmresearch/TradingView</RepositoryUrl>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <LangVersion>latest</LangVersion>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageIcon>icon.png</PackageIcon>
+        <PackageDescription>TradingView is a .Net library to integrate with TradingView UDF providers.</PackageDescription>
+        <PackageTags>tradingview;udf;</PackageTags>
+        <PackageReleaseNotes>https://github.com/bmresearch/TradingView/releases</PackageReleaseNotes>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+    <ItemGroup Label="PackageIcon">
+        <None Include="$(MSBuildThisFileDirectory)/assets/icon.png" Pack="true" Visible="false" PackagePath=""/>
+    </ItemGroup>
+</Project>
