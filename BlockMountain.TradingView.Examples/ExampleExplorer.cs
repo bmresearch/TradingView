@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TradingView.Examples
+namespace BlockMountain.TradingView.Examples
 {
     public class ExampleExplorer
     {

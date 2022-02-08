@@ -1,4 +1,3 @@
-using BlockMountain.TradingView;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BlockMountain.TradingView.Test

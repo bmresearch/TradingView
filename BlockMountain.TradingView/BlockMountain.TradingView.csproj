@@ -10,7 +10,7 @@
 
 	<ItemGroup>
 		<AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
-			<_Parameter1>TradingView.Test</_Parameter1>
+			<_Parameter1>BlockMountain.TradingView.Test</_Parameter1>
 		</AssemblyAttribute>
 	</ItemGroup>
 
@@ -20,4 +20,5 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
 	</ItemGroup>
 
+	<Import Project="..\SharedBuildProperties.props" />
 </Project>

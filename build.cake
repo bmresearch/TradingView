@@ -4,7 +4,7 @@
 
 var testProjectsRelativePaths = new string[]
 {
-    "./TradingView.Test/TradingView.Test.csproj",
+    "./BlockMountain.TradingView.Test/BlockMountain.TradingView.Test.csproj",
 };
 
 var target = Argument("target", "Pack");
@@ -102,7 +102,7 @@ Task("Pack")
             OutputDirectory = packagesDir
         };
 
-        DotNetCorePack("./TradingView/", settings);
+        DotNetCorePack("./BlockMountain.TradingView/", settings);
     });
 
 RunTarget(target);

@@ -21,8 +21,8 @@ jobs:
         id: publish_nuget
         uses: bmresearch/publish-nuget@master
         with:
-          PROJECT_FILE_PATH: TradingView/TradingView.csproj
-          PACKAGE_NAME: TradingView
+          PROJECT_FILE_PATH: BlockMountain.TradingView/BlockMountain.TradingView.csproj
+          PACKAGE_NAME: BlockMountain.TradingView
           VERSION_FILE_PATH: SharedBuildProperties.props
           VERSION_REGEX: ^\s*<Version>(.*)<\/Version>\s*$
           TAG_FORMAT: v*
@@ -46,6 +46,6 @@ jobs:
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.ACCESS_TOKEN }}
-          file: TradingView/bin/Release/net5.0/ref/TradingView.dll
+          file: BlockMountain.TradingView/bin/Release/net5.0/ref/BlockMountain.TradingView.dll
           tag: ${{ steps.publish_nuget.outputs.VERSION }}
           upload_url: ${{ steps.create_release.outputs.upload_url }}

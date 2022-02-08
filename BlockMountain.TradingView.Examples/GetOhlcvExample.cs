@@ -1,7 +1,6 @@
-﻿using BlockMountain.TradingView;
-using System;
+﻿using System;
 
-namespace TradingView.Examples
+namespace BlockMountain.TradingView.Examples
 {
     public class GetOhlcvExample : IRunnableExample
     {

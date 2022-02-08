@@ -3,11 +3,9 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Net.Http;
 using System.Text.Json;
-using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using TradingView.Converters;
 using TradingView.Models;
-using TradingView.NamingPolicies;
 
 namespace BlockMountain.TradingView
 {
@@ -50,7 +48,6 @@ namespace BlockMountain.TradingView
             _jsonSerializerOptions = new JsonSerializerOptions()
             {
                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
-                Converters =  { new TvStatusJsonConverter() }
             };
         }
 

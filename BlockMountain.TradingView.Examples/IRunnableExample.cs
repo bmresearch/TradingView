@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TradingView.Examples
+namespace BlockMountain.TradingView.Examples
 {
     /// <summary>
     /// Defines functionality for an example.
