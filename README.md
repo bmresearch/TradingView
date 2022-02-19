@@ -1,7 +1,16 @@
 <p align="center">
     <a href="https://github.com/bmresearch/TradingView/actions/workflows/dotnet.yml">
         <img src="https://github.com/bmresearch/TradingView/actions/workflows/dotnet.yml/badge.svg"
-            alt="Build Status (master)" ></a>
+            alt="Build .NET6" ></a>
+    <a href="https://github.com/bmresearch/TradingView/actions/workflows/publish.yml">
+        <img src="https://github.com/bmresearch/TradingView/actions/workflows/publish.yml/badge.svg"
+            alt="Release .NET6" ></a>
+    <a href="https://github.com/bmresearch/TradingView/actions/workflows/dotnet.yml">
+        <img src="https://github.com/bmresearch/TradingView/actions/workflows/dotnet.yml/badge.svg?branch=net5"
+            alt="Build .NET5" ></a>
+    <a href="https://github.com/bmresearch/TradingView/actions/workflows/publish.yml">
+        <img src="https://github.com/bmresearch/TradingView/actions/workflows/publish.yml/badge.svg?branch=net5"
+            alt="Release .NET5" ></a>
     <a href="https://coveralls.io/github/bmresearch/TradingView?branch=master">
         <img src="https://coveralls.io/repos/github/bmresearch/TradingView/badge.svg?branch=master" 
             alt="Coverage Status" ></a>
@@ -17,7 +26,7 @@ You can use this library to consume data from TV UDF providers.
 - Implements a generic client for TV UDF providers
 
 ## Requirements
-- net 5.0
+- net 6.0
 
 ## Examples
 
