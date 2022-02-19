@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockMountain.TradingView", "BlockMountain.TradingView\BlockMountain.TradingView.csproj", "{D86F1C76-B6FA-40C2-A1D4-126316FCFD93}"
 EndProject
@@ -24,6 +24,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.github\workflows\publish.yml = .github\workflows\publish.yml
 		PULL_REQUEST_TEMPLATE.md = PULL_REQUEST_TEMPLATE.md
 		README.md = README.md
+		RELEASE-NOTES.txt = RELEASE-NOTES.txt
 		SharedBuildProperties.props = SharedBuildProperties.props
 	EndProjectSection
 EndProject
